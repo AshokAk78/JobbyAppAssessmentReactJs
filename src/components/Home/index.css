@@ -1,0 +1,7 @@
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  width: 80%;
+  color: aliceblue;
+}
